@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PasswordApp</string>
+    <string name="loginbutton">Log In</string>
+    <string name="title_activity_content_list">ContentList</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_domain">Domain</string>
+    <string name="dialog_password">Password</string>
+    <string name="dialog_show_password">Show Password</string>
+    <string name="dialog_username">Username</string>
+    <string name="actfirstrun_edit_text_hint">Master Password</string>
+    <string name="actfirstrun_button">Sign In</string>
+    <string name="ovf_men_delete">Delete</string>
+    <string name="ovf_men_settings">Settings</string>
+    <string name="ovf_men_ch_pass">Change Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="old_password">Old Password</string>
+</resources>
